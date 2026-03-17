@@ -1,1 +1,1 @@
-programed the beautifull game of Reversi/Othello in c#
+# programmed the beautifull game of Reversi/Othello in c#
